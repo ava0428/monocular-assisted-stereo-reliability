@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  Cite these research materials and identify the repository commit or downloaded
+  snapshot used. This citation describes code and research materials, not a
+  published journal article; no publication DOI or acceptance status is asserted.
+type: software
+title: >-
+  Research materials for Monocular-Assisted Reliability for Stereo Depth:
+  The Role of Score Processing and Coverage
+authors:
+  - family-names: Wei
+    given-names: Zhenqi
+    affiliation: School of Computer Science and Engineering, South China University of Technology
+  - family-names: Hu
+    given-names: Jinsong
+    affiliation: School of Computer Science and Engineering, South China University of Technology
+version: "2026.10.24"
+repository-code: https://github.com/ava0428/monocular-assisted-stereo-reliability
+url: https://github.com/ava0428/monocular-assisted-stereo-reliability
+abstract: >-
+  Curated analysis code, original and additional saved evaluation results,
+  sampled calibration diagnostic operands, and source-selected risk-scorer
+  checkpoints. Scope and material-specific licenses are documented in the
+  repository; complete raw data and third-party backbone weights are external.
+keywords:
+  - stereo depth
+  - reliability
+  - selective prediction
+  - calibration
+  - reproducibility

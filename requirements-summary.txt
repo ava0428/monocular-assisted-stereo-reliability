@@ -1,0 +1,6 @@
+# Dependency for reproduce.py summary and the explicit sampled CAL diagnostic.
+# The historical diagnostic recorded NumPy 1.24.4; this compatible-range entry
+# is not a claim that every Python/NumPy version was tested.
+numpy>=1.24,<3
+# Matplotlib (plots), OpenCV/Pillow (input packing) and model dependencies are
+# separate; this file does not install a full raw-evaluation environment.
